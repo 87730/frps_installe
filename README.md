@@ -3,7 +3,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-一键安装和管理FRP服务端的脚本，支持多种Linux发行版（Debian/Ubuntu/CentOS等）。
+一键安装和管理FRP服务端的脚本
+支持多种Linux发行版
+Debian/Ubuntu/CentOS等
 
 ## 功能特点
 
