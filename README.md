@@ -26,7 +26,8 @@ Debian/Ubuntu/CentOS等
 - Arch Linux
 ```
 ## 一键安装命令
-```sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)"
+```
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)"
 ```
 
 管理菜单
