@@ -1,4 +1,4 @@
-##frp-server-installer/
+##frp-server-installer/           
 ├──install_frps.sh # 主安装脚本        
 ├── README.md      # 项目说明文档
 ```
