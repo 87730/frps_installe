@@ -1,6 +1,10 @@
-## 一键安装命令
-```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)
+## 安装方法
+
+```bash
+wget https://raw.githubusercontent.com/87730/frps_installe/refs/heads/main/frps.sh
+chmod +x install_frps.sh
+sudo ./install_frps.sh
+
 ```
 # FRP Server Installer
 
