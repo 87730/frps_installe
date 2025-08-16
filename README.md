@@ -1,10 +1,10 @@
-## 安装方法
-
+# 使用方法
 ```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/87730/frps_installe/refs/heads/main/frps.sh)"
-```
+sudo wget https://raw.githubusercontent.com/87730/frps_installe/main/frps.sh
+sudo chmod +x frps.sh
+sudo ./frps.sh
 # FRP Server Installer
-
+```
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一键安装和管理FRP服务端的脚本
