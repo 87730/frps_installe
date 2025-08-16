@@ -24,16 +24,11 @@ Debian/Ubuntu/CentOS等
 - Fedora
 - openSUSE
 - Arch Linux
-
-## 使用方法
-
-### 全新安装
-
+```
+## 安装方法
 ```bash
-sudo -i
-wget https://raw.githubusercontent.com/your-username/frp-server-installer/main/frps.sh
-chmod +x frps.sh
-./frps.sh
+# 一键安装命令
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)"
 ```
 
 管理菜单
