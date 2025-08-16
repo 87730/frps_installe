@@ -1,4 +1,7 @@
-```markdown
+## 一键安装命令
+```
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)
+```
 # FRP Server Installer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -24,16 +27,8 @@ Debian/Ubuntu/CentOS等
 - Fedora
 - openSUSE
 - Arch Linux
-```
-## 一键安装命令
-```
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/johnsmith/frp-server-installer/main/install_frps.sh)"
-```
 
-管理菜单
-
-如果系统已安装FRPS，运行脚本将显示管理菜单：
-
+# 管理菜单如果系统已安装FRPS，运行脚本将显示管理菜单：
 ```
 ==============================
       FRPS 服务管理菜单       
