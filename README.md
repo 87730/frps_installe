@@ -1,7 +1,6 @@
 ##frp-server-installer/
-├── install_frps.sh          # 主安装脚本
-├── README.md                # 项目说明文档
-└── LICENSE                  # MIT 许可证
+├──install_frps.sh # 主安装脚本        
+├── README.md      # 项目说明文档
 ```
 
 README.md 内容建议
