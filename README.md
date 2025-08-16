@@ -1,10 +1,3 @@
-##frp-server-installer/           
-├──install_frps.sh # 主安装脚本        
-├── README.md      # 项目说明文档
-```
-
-README.md 内容建议
-
 ```markdown
 # FRP Server Installer
 
@@ -36,9 +29,9 @@ README.md 内容建议
 
 ```bash
 sudo -i
-wget https://raw.githubusercontent.com/your-username/frp-server-installer/main/install_frps.sh
-chmod +x install_frps.sh
-./install_frps.sh
+wget https://raw.githubusercontent.com/your-username/frp-server-installer/main/frps.sh
+chmod +x frps.sh
+./frps.sh
 ```
 
 管理菜单
