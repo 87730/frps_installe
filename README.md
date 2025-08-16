@@ -1,9 +1,6 @@
-# 使用方法
+# 一键命令
 ```
-sudo wget https://raw.githubusercontent.com/87730/frps_installe/main/frps.sh
-sudo chmod +x frps.sh
-sudo ./frps.sh
-# FRP Server Installer
+sudo wget https://raw.githubusercontent.com/87730/frps_installe/main/frps.sh && sudo chmod +x frps.sh && sudo ./frps.sh
 ```
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
