@@ -1,10 +1,7 @@
 ## 安装方法
 
-```bash
-wget https://raw.githubusercontent.com/87730/frps_installe/refs/heads/main/frps.sh
-chmod +x install_frps.sh
-sudo ./install_frps.sh
-
+```
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/87730/frps_installe/refs/heads/main/frps.sh)"
 ```
 # FRP Server Installer
 
